@@ -110,4 +110,4 @@ void go(char *args, int len) {
 
 - https://github.com/RIscRIpt/pecoff
 - https://github.com/praetorian-inc/goffloader
-- https://github.com/Cen4enCen/CenCoffLdr/stargazers
+- https://github.com/Cen4enCen/CenCoffLdr
